@@ -1,7 +1,10 @@
+import chattydelta from '../../assests/images/chattydelta.png';
+import spillthejeans from '../../assests/images/spillthejeans.png';
+
 const projects = [
   {
     title: 'Spill the Jeans',
-    screenshot: '',
+    screenshot: `${chattydelta}`,
     description: 'enter here',
     technologiesUsed: 'HTML, CSS, JavaScript, Version Control with Github',
     available: true,
@@ -9,8 +12,8 @@ const projects = [
     githubUrl: 'enter here'
   },
   {
-    title: 'Pet Adoption Site',
-    screenshot: '',
+    title: 'Spill the Jeans',
+    screenshot: `${spillthejeans}`,
     description: 'enter here',
     technologiesUsed: 'HTML, CSS, JavaScript, Version Control with Github',
     available: true,
